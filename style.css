@@ -1,0 +1,25 @@
+
+.titel {
+    text-align: center; /* Text ausrichtung in der Mitte */
+    font-size: 100px; /* Text grösse ist auf 100 pixel */
+    color: #4566b5; /* farbe anpassen des textes */
+}
+
+.bodyimage {
+    width: 1500px;    /* Breite des Bildes */
+    height: auto;   /* Höhe des Bildes*/
+}
+
+.center {
+    text-align: center;
+}
+
+.text {
+    font-size: 100px;
+}
+
+.link {
+    font-size: 100px;
+    text-decoration: none;
+    
+}
